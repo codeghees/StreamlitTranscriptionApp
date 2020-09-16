@@ -9,8 +9,11 @@
 3. Add relevant paths in `app.py`
 
       `transcript_path = "PATH_TO_TRANSCRIPTS_DIR"`
+
       `wavs_path = "PATH_TO_WAVS/*.wav"`
+
       `wavs_list = glob.glob(wavs_path)`  
+      
       `PathToFixed ="PATH TO FIXED DIR"`
 4. streamlit run app.py --server.port [PORT]
 
