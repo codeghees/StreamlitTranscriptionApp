@@ -1,3 +1,3 @@
-### Audio Transcription App 
+## Audio Transcription App 
 
-## Written in Streamlit - Python
+### Written in Streamlit - Python
