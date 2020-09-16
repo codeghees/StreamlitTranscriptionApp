@@ -7,6 +7,7 @@
 1. Install Streamlit `pip install streamlit`
 2. Install Streamlit-ace `pip install streamlit-ace`
 3. Add relevant paths in `app.py`
+
       `transcript_path = "PATH_TO_TRANSCRIPTS_DIR"`
       `wavs_path = "PATH_TO_WAVS/*.wav"`
       `wavs_list = glob.glob(wavs_path)`  
