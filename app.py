@@ -88,10 +88,10 @@ def main():
 
     
     # PATHS
-    transcript_path = "PATH_TO_TRANSCRIPTS_DIR"
-    wavs_path = "PATH_TO_WAVS/*.wav"
+    transcript_path = "./sample/"
+    wavs_path = "./sample/*.wav"
     wavs_list = glob.glob(wavs_path)  
-    PathToFixed ="PATH TO FIXED DIR"
+    PathToFixed ="./sample/fixed/"
 
     # LOAD STATE
     current_index = 0
