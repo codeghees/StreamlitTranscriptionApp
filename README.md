@@ -4,6 +4,8 @@
 
 #### How to run
 
+[Live demo here](https://s4a.streamlit.io/codeghees/streamlittranscriptionapp/master/app.py/+/)
+
 1. Install Streamlit `pip install streamlit`
 2. Install Streamlit-ace `pip install streamlit-ace`
 3. Add relevant paths in `app.py`
@@ -18,5 +20,3 @@
 The app saves discarded files and index in State.pkl.
 This will preserve your state against multiple runs and crashes.
 DO NOT DELETE ONCE IT IS WRITTEN.
-
-[Live demo here](https://s4a.streamlit.io/codeghees/streamlittranscriptionapp/master/app.py/+/)
