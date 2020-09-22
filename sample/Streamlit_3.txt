@@ -1,0 +1,1 @@
+The path to transcripts is where you have all your txt files. The path to wav is where you have all your wav files.

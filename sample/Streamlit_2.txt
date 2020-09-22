@@ -1,0 +1,1 @@
+To run this app, you will have to set three paths, the path to fixed files, the path to transcripts, the path to the wav files
