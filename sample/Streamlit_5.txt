@@ -1,1 +1,0 @@
-This app is a beta test for Streamlit community and this app is hosted by Streamlit for free.

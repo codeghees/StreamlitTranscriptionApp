@@ -1,1 +1,0 @@
-All your fixed files will go to the fixed files path that you will give. And all the files that you reject will be saved in a state.pkl file that you can read.
