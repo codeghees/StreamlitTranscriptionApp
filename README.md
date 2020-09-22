@@ -19,4 +19,4 @@ The app saves discarded files and index in State.pkl.
 This will preserve your state against multiple runs and crashes.
 DO NOT DELETE ONCE IT IS WRITTEN.
 
-Live demo here (https://s4a.streamlit.io/codeghees/streamlittranscriptionapp/master/app.py/+/)
+[Live demo here](https://s4a.streamlit.io/codeghees/streamlittranscriptionapp/master/app.py/+/)
